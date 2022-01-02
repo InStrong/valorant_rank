@@ -1,0 +1,1 @@
+web: java -jar target/valorant_rank-0.0.1-SNAPSHOT.jar $PORT
